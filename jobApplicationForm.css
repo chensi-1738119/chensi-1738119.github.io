@@ -1,0 +1,35 @@
+h2{
+    text-align: center;
+    color: gray;
+    font-size: 24px;
+}
+legend{
+    font-family:"Arial";
+    font-style:oblique;
+    font-weight:bold;
+}
+div{
+    overflow: auto;
+    position: relative;
+    cursor:grab;
+}
+fieldset{
+    background-color: pink;
+    margin: 20px;
+    border: 1px solid #666;
+}
+li{
+    font-variant: small-caps;
+    display: inline-block;
+    transform: rotate(20deg);
+}
+input{
+    background:whitesmoke;
+    outline: 1px solid gray;
+    outline-offset: -2px;
+}
+th{
+    text-decoration: underline;
+    padding: 1rem 2rem;
+    opacity: 0.6;
+}
